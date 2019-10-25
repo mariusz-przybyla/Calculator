@@ -1,2 +1,2 @@
 # Calculator
-First app with spring
+First app with spring framework. 
