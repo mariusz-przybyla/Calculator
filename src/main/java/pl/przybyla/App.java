@@ -8,7 +8,8 @@ public class App {
     public static void main(String[] args) {
         ApplicationContext appCtx = new AnnotationConfigApplicationContext(AppConfig.class);
         Calculator bean = appCtx.getBean(Calculator.class);
-        double result = bean.calculate(OperationType.ADDITION, 2.0, 3.0);
+
+        double result = bean.calculate(OperationType.SUBTRACTION, 2.0, 3.0);
 
         System.out.println("Calculation result: " + result);
     }

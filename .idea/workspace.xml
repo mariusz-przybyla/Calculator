@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dce46020-d0b6-4c2a-a99e-f5a08047bfbb" name="Default Changelist" comment="First commit - test">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/przybyla/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/przybyla/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/przybyla/operation/AdditionOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/przybyla/operation/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/przybyla/operation/OperationType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="dce46020-d0b6-4c2a-a99e-f5a08047bfbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/przybyla/operation/DivisonOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/przybyla/operation/MultiplicationOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/przybyla/operation/SubtractionOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/przybyla/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/przybyla/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/przybyla/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/przybyla/AppConfig.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571852226721</updated>
-      <workItem from="1571852230676" duration="7450000" />
+      <workItem from="1571852230676" duration="12154000" />
     </task>
     <task id="LOCAL-00001" summary="First commit - test">
       <created>1571854248983</created>
@@ -119,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571854248983</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added add operation">
+      <created>1571942545032</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571942545032</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +129,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit - test" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit - test" />
+    <MESSAGE value="Added add operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added add operation" />
   </component>
 </project>
